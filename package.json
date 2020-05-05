@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "update":"git add . && git commit -m 'update' && ggp",
+    "update":"git add . && git commit -m 'update' && git push",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
