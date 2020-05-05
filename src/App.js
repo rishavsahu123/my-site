@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-<div>Rishav</div>
+<div>App will be deployed soon...</div>
   );
 }
 
