@@ -1,9 +1,10 @@
 import React from 'react';
-import './App.css';
+import './styles/layout.css';
+import ResponsiveLayout from "./layout/Responsive.jsx";
 
 function App() {
   return (
-<div>Rishav</div>
+    <ResponsiveLayout></ResponsiveLayout>
   );
 }
 

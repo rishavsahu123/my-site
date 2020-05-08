@@ -1,0 +1,22 @@
+.side-header-pic {
+  height: 150px;
+  width: 150px;
+  border: 1px solid;
+  border-radius: 50%;
+  background: #fff;
+  margin: 16px;
+}
+
+.site-layout-sub-header-background {
+  background: #fff;
+}
+
+.site-layout-background {
+  background: #fff;
+  padding: 24;
+  min-height: 600px;
+  padding: 2rem;
+}
+[data-theme="dark"] .site-layout-sub-header-background {
+  background: #141414;
+}
